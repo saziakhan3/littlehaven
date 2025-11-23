@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Baby Thermometer",
+    "category": "Health Monitoring",
+    "price": 1200,
+    "image": "https://m.media-amazon.com/images/I/61bMXYOuGfL._SL1300_.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Nasal Aspirator",
+    "category": "Nasal Care",
+    "price": 350,
+    "image": "https://m.media-amazon.com/images/I/71ikZ9u7BtL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Baby Nail Clippers",
+    "category": "Grooming",
+    "price": 250,
+    "image": "https://images-cdn.ubuy.co.in/660ba5028327fe10b77e4a1a-baby-nail-trimmer-electric-nail-file-kit.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Baby Medicine Dropper",
+    "category": "Medicine Tools",
+    "price": 150,
+    "image": "https://diapersheba.com/wp-content/uploads/2024/07/Apple-bear-baby-medicine-Dropper.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Soft Baby Brush & Comb",
+    "category": "Grooming",
+    "price": 400,
+    "image": "https://img.drz.lazcdn.com/static/bd/p/0d4a5341707e76c9e1962ad4ae59028c.jpg_720x720q80.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Baby First Aid Kit",
+    "category": "Health Monitoring",
+    "price": 950,
+    "image": "https://m.media-amazon.com/images/I/81BMM160QEL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Baby Tooth Brush Set",
+    "category": "Oral Care",
+    "price": 300,
+    "image": "https://babybazarbd.com/wp-content/uploads/2021/10/training-toothbrush.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Baby Medicine Organizer",
+    "category": "Medicine Tools",
+    "price": 550,
+    "image": "https://m.media-amazon.com/images/I/619L+spdD7L.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Baby Eye Wash Cup",
+    "category": "Eye Care",
+    "price": 220,
+    "image": "https://m.media-amazon.com/images/I/61MpceG7YEL.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Silicone Baby Spoon",
+    "category": "Feeding Tools",
+    "price": 180,
+    "image": "https://creassmart.com/image/product/68eac2d77fb72.webp"
+  },
+  {
+    "id": 11,
+    "name": "Baby Medicine Syringe",
+    "category": "Medicine Tools",
+    "price": 200,
+    "image": "https://i.ebayimg.com/images/g/ZTIAAOSwjGpZ29tY/s-l1200.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Soft Baby Cotton Balls",
+    "category": "Skin Care",
+    "price": 150,
+    "image": "https://images.ctfassets.net/os4qrmlr8hsb/5oidwLV2rWNI33TmVTM5IQ/ed28d0302ba20d59aa261906d08670b9/cotton-balls-front-en-gb"
+  },
+  {
+    "id": 13,
+    "name": "Baby Skin Care Lotion",
+    "category": "Skin Care",
+    "price": 400,
+    "image": "https://www.banglashoppers.com/media/catalog/product/cache/28adb0880ea0a38fe96e4c3199c5a9af/3/5/3574661652238.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Baby Ear Cleaner",
+    "category": "Ear Care",
+    "price": 220,
+    "image": "https://m.media-amazon.com/images/I/61q0l1U79hL._SL1500_.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Baby Hand Sanitizer",
+    "category": "Hygiene",
+    "price": 150,
+    "image": "https://m.media-amazon.com/images/I/711XZkGBMpL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Baby Teething Gel",
+    "category": "Oral Care",
+    "price": 300,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCRCPdvL2zq1IUUSqQXTA7kxmIbmiz55tFhw&s"
+  },
+  {
+    "id": 17,
+    "name": "Baby Soft Towel",
+    "category": "Bathing",
+    "price": 500,
+    "image": "https://static-01.daraz.com.bd/p/cb2e3a79263224f1569f5e6845916edd.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Baby Bath Thermometer",
+    "category": "Bathing",
+    "price": 350,
+    "image": "https://images.bauerhosting.com/affiliates/sites/12/2021/11/Baby-Bath-Thermometers-2024.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80"
+  },
+  {
+    "id": 19,
+    "name": "Nail File for Babies",
+    "category": "Grooming",
+    "price": 180,
+    "image": "https://img.drz.lazcdn.com/static/bd/p/5aea153be30695d590c4dddd60a8262b.jpg_960x960q80.jpg_.webp"
+  },
+  {
+    "id": 20,
+    "name": "Baby Nose Wipes",
+    "category": "Nasal Care",
+    "price": 120,
+    "image": "https://www.boogiewipes.com/wp-content/uploads/Boogie-Wipes_4-scents-5-scaled.jpg"
+  }
+]

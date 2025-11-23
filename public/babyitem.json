@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Cotton Baby Romper",
+    "category": "Clothes",
+    "price": 12.99,
+    "description": "Soft cotton romper suitable for newborns.",
+    "image": "https://img.drz.lazcdn.com/static/bd/p/c9157b8e4cb859700182d20eb3150ed2.jpg_720x720q80.jpg",
+    "rating": 4.8,
+    "stock": 32
+  },
+  {
+    "id": 2,
+    "name": "Baby Hooded Towel",
+    "category": "Bath",
+    "price": 9.50,
+    "description": "Ultra soft hooded towel with cute bear design.",
+    "image": "https://www.momshome.in/cdn/shop/files/1_995b676b-d21c-4677-9727-a1196634800d.webp?v=1742031126",
+    "rating": 4.6,
+    "stock": 50
+  },
+  {
+    "id": 3,
+    "name": "Silicone Baby Bottle 250ml",
+    "category": "Feeding",
+    "price": 15.00,
+    "description": "Anti-colic silicone bottle safe for newborns.",
+    "image": "https://img.drz.lazcdn.com/static/bd/p/b17882176ad0b8a2ec81a0ee61be4b7b.jpg_720x720q80.jpg",
+    "rating": 4.7,
+    "stock": 40
+  },
+  {
+    "id": 4,
+    "name": "Soft Plush Teddy",
+    "category": "Toys",
+    "price": 8.99,
+    "description": "Cute plush teddy bear perfect for toddlers.",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2024/9/448334472/YB/PR/NU/23061533/whatsapp-image-2024-08-27-at-17-18-21-1-500x500.jpeg",
+    "rating": 4.5,
+    "stock": 28
+  },
+  {
+    "id": 5,
+    "name": "Baby Stroller (Lightweight)",
+    "category": "Gear",
+    "price": 89.99,
+    "description": "Durable, lightweight stroller with storage.",
+    "image": "https://m.media-amazon.com/images/I/61i4JeQ1qjL._SL1200_.jpg",
+    "rating": 4.9,
+    "stock": 12
+  },
+  {
+    "id": 6,
+    "name": "Soft Baby Blanket",
+    "category": "Bedding",
+    "price": 14.49,
+    "description": "Warm and fluffy baby blanket for all seasons.",
+    "image": "https://img.drz.lazcdn.com/static/bd/p/0a5360fe461f584fe718946a7faeeb86.jpg_720x720q80.jpg",
+    "rating": 4.8,
+    "stock": 60
+  },
+  {
+    "id": 7,
+    "name": "Rattle Toy Set",
+    "category": "Toys",
+    "price": 6.99,
+    "description": "Colorful rattle toys for sensory development.",
+    "image": "https://toycra.com/cdn/shop/files/innovitoy-My-First-Gift-Premium-Rattle-Set-Multi-Color-Infant-Toys-Innovitoy-Toycra_700x700.jpg?v=1725292120",
+    "rating": 4.4,
+    "stock": 35
+  },
+  {
+    "id": 8,
+    "name": "Baby Shoes (Soft Sole)",
+    "category": "Clothes",
+    "price": 10.99,
+    "description": "Comfortable soft-sole shoes ideal for early walkers.",
+    "image": "https://images.othoba.com/images/thumbs/0848837_spring-cute-baby-shoes-new-cribe-shoes-soft-sole-non-slip-cartoon-baby-toddler-shoes-infant-boy-girl.jpeg",
+    "rating": 4.7,
+    "stock": 20
+  },
+  {
+    "id": 9,
+    "name": "Baby Feeding Set",
+    "category": "Feeding",
+    "price": 18.99,
+    "description": "Complete feeding set with spoon, bowl, and cup.",
+    "image": "https://m.media-amazon.com/images/I/71FkzCX1xxL._UF894,1000_QL80_.jpg",
+    "rating": 4.6,
+    "stock": 45
+  },
+  {
+    "id": 10,
+    "name": "Muslin Swaddle Cloth",
+    "category": "Bedding",
+    "price": 7.99,
+    "description": "Breathable muslin cloth ideal for swaddling.",
+    "image": "https://littlebluenest.com/cdn/shop/files/Organi-cotton-muslin-swaddle-blanket-collection_1_1600x.jpg?v=1647348314",
+    "rating": 4.8,
+    "stock": 55
+  },
+  {
+    "id": 11,
+    "name": "Baby Shampoo (Tear-Free)",
+    "category": "Bath",
+    "price": 5.49,
+    "description": "Mild tear-free shampoo suitable for sensitive skin.",
+    "image": "https://media.post.rvohealth.io/2ihZCVbiHmIOsY9s49uLVzzMGB9/2024/07/03/2ikQWlx6G5BZ9U0ma52HEIn08JN.jpeg",
+    "rating": 4.6,
+    "stock": 70
+  },
+  {
+    "id": 12,
+    "name": "Baby Carrier Sling",
+    "category": "Gear",
+    "price": 34.99,
+    "description": "Comfortable ergonomic sling for easy carrying.",
+    "image": "https://img.drz.lazcdn.com/static/bd/p/4b420b4b21ac261c33d3c999485b55ba.jpg_720x720q80.jpg_.webp",
+    "rating": 4.7,
+    "stock": 18
+  },
+  {
+    "id": 13,
+    "name": "Pacifier Set (2 Pack)",
+    "category": "Feeding",
+    "price": 4.99,
+    "description": "Safe silicone pacifiers with protective caps.",
+    "image": "https://www.4sgm.com/assets/Image/Product/detailsbig/50749.jpg",
+    "rating": 4.5,
+    "stock": 100
+  },
+  {
+    "id": 14,
+    "name": "Stacking Rings Toy",
+    "category": "Toys",
+    "price": 7.49,
+    "description": "Colorful stacking rings for early motor skills.",
+    "image": "https://justwindup.com/wp-content/uploads/2021/07/61xtUYw6O8L._SL1280_.jpg",
+    "rating": 4.9,
+    "stock": 30
+  },
+  {
+    "id": 15,
+    "name": "Baby Onesie (Pack of 3)",
+    "category": "Clothes",
+    "price": 16.99,
+    "description": "Pack of 3 soft cotton onesies.",
+    "image": "https://www.lions-pride.com/cdn/shop/files/CBRZUOZ.jpg?v=1726249453",
+    "rating": 4.8,
+    "stock": 25
+  },
+  {
+    "id": 16,
+    "name": "Nursing Pillow",
+    "category": "Feeding",
+    "price": 22.99,
+    "description": "Comfortable pillow to support feeding posture.",
+    "image": "https://images-cdn.ubuy.qa/634fea2fb126fe09b7128414-baby-nursing-pillow-and-positioner-with.jpg",
+    "rating": 4.9,
+    "stock": 15
+  },
+  {
+    "id": 17,
+    "name": "Baby Nail Trimmer",
+    "category": "Care",
+    "price": 11.50,
+    "description": "Safe electric nail trimmer for newborns.",
+    "image": "https://creassmart.com/image/product/68642c2d391c3.webp",
+    "rating": 4.6,
+    "stock": 20
+  },
+  {
+    "id": 18,
+    "name": "Baby Teether",
+    "category": "Care",
+    "price": 3.99,
+    "description": "Soft silicone teether for teething relief.",
+    "image": "https://pur.com.bd/wp-content/uploads/2020/03/8003-teether-23.jpg",
+    "rating": 4.7,
+    "stock": 80
+  },
+  {
+    "id": 19,
+    "name": "Baby Play Mat",
+    "category": "Toys",
+    "price": 29.99,
+    "description": "Soft, colorful play mat with animal prints.",
+    "image": "https://m.media-amazon.com/images/I/71c6ogF51sL._AC_SL1500_.jpg",
+    "rating": 4.8,
+    "stock": 22
+  },
+  {
+    "id": 20,
+    "name": "Diaper Bag Backpack",
+    "category": "Gear",
+    "price": 39.99,
+    "description": "Spacious multi-pocket diaper bag for travel.",
+    "image": "https://keababies.com/cdn/shop/files/OriginalDiaperBag_TrendyBlack_Main_1A_daebd50f-4e59-45cc-a610-c17f17b5a640.jpg?v=1696560477",
+    "rating": 4.9,
+    "stock": 16
+  }
+]
